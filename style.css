@@ -15,11 +15,9 @@ h1 {
   color: green;
 }
 
-a {
-    background-image: url("https://www.transparentpng.com/thumb/click-here-button/A62YU7-click-here-button-free-download-transparent.png");
-    display: block;
-    height:100px;
-    width:32px;
-  }
+#Generator {
+height: 300px
+width: 24px
+}
 
   
